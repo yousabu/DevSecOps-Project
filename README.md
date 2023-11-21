@@ -28,14 +28,14 @@
 
 
 
-1. **Configure CI/CD Pipeline in Jenkins:**
+2. **Configure CI/CD Pipeline in Jenkins:**
 
 ![Screenshot from 2023-11-21 14-39-14](https://github.com/yousabu/DevSecOps-Project/assets/66924041/28d678f7-b340-468f-8765-ffe33e6a75fc)
 
 
 
 
-**Phase 4: Monitoring**
+3. ** Monitoring**
 ![Screenshot from 2023-11-21 14-46-35](https://github.com/yousabu/DevSecOps-Project/assets/66924041/3c8bf42e-e460-43ac-927b-3862f9f00923)
 ![Screenshot from 2023-11-21 14-45-56](https://github.com/yousabu/DevSecOps-Project/assets/66924041/a078b203-b11d-45cd-8749-c89a49946185)
 
@@ -46,9 +46,6 @@
 
 
 
-**Create an ArgoCD Application:**
+4. **Create an ArgoCD Application:**
+![Screenshot from 2023-11-21 14-53-38](https://github.com/yousabu/DevSecOps-Project/assets/66924041/f638f30b-6848-4f22-aa8c-c6556c385218)
 
-**Phase 7: Cleanup**
-
-1. **Cleanup AWS EC2 Instances:**
-    - Terminate AWS EC2 instances that are no longer needed.
