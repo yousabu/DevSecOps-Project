@@ -6,16 +6,20 @@
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
   </a>
 </div>
+![Screenshot from 2023-11-21 14-39-14](https://github.com/yousabu/DevSecOps-Project/assets/66924041/fd7f0251-9d8b-4cc0-a84c-52e53bc77efb)
+
 
 <br />
-
+<div align="center">
+  
+  <p align="center">Home Page</p>
+</div>
+<br />
 <div align="center">
   <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
 
-# **Youtube Video for step by step Demonstration!**
-[![Video Tutorial](https://img.youtube.com/vi/g8X5AoqCJHc/0.jpg)](https://youtu.be/g8X5AoqCJHc)
 
 
 ## Susbcribe:
