@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_yousabu_DevSecOps_Project_1719045026371-pr-trigger-input-set
+  identifier: Build_yousabu_DevSecOps_Project_1719045026371prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: test
+  pipeline:
+    identifier: Build_yousabu_DevSecOps_Project_1719045026371
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
