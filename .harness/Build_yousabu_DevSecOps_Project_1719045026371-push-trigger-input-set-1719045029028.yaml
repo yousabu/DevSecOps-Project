@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_yousabu_DevSecOps_Project_1719045026371-push-trigger-input-set
+  identifier: Build_yousabu_DevSecOps_Project_1719045026371pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: test
+  pipeline:
+    identifier: Build_yousabu_DevSecOps_Project_1719045026371
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
